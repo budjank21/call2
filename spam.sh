@@ -56,7 +56,7 @@ git clone https://github.com/budjank21/callv1
 sleep 1
 echo "=> install cd" | lolcat
 sleep 2
-cd call-01
+cd callv1
 echo "=> install selesai" | lolcat
 bash callv1.sh
 fi

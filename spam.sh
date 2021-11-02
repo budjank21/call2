@@ -58,7 +58,7 @@ echo "=> install cd" | lolcat
 sleep 2
 cd callv1
 echo "=> install selesai" | lolcat
-bash callv1.sh
+sh callv1.sh
 fi
 
 

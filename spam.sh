@@ -52,7 +52,7 @@ fi
 if [ $gay = 1 ]; then
 echo "=> install github" | lolcat
 sleep 1
-git clone https://github.com/MrVirusSpm-07/call-01
+git clone https://github.com/budjank21/callv1
 sleep 1
 echo "=> install cd" | lolcat
 sleep 2
